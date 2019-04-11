@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="2" name="searcg in google with data from feature" skipped="0" tests="3" time="38.15" timestamp="2019-04-04 08:47:46"><testcase name="Title of your scenario outline"><error message="la frase encontrada no correspondea la busqueda - &#10;Expected: is &quot;&lt;palabtra&gt;&quot;&#10;     but: was &quot;switch&quot;" type="java.lang.AssertionError">la frase encontrada no correspondea la busqueda - 
+Expected: is "&lt;palabtra&gt;"
+     but: was "switch"</error><system-err>la frase encontrada no correspondea la busqueda - 
+Expected: is "&lt;palabtra&gt;"
+     but: was "switch"&#13;
+co.com.google.certificacion.miprimerscreenplay.stepsdefinitions.BusquedaEnGoogleStepDifinition.elVerificaLaPalabraEsteEnElResultado(BusquedaEnGoogleStepDifinition.java:55)&#13;
+✽.el verifica la palabra "&lt;palabtra&gt;" este en el resultado(src/test/resources/features/BuscarEnGoogle.feature:9)&#13;
+</system-err></testcase></testsuite>
